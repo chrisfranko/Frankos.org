@@ -17,7 +17,7 @@
     <meta property="og:description" content="Franko - Franko is a peer-to-peer payment network built with blockchain technology" />
     <meta property="og:title" content="Frankos.org" />
     <meta property="og:image" content="http://www.frankos.org/img/frankoLogoNew.png" />
-    <link rel="shortcut icon" type="image/x-icon" href="http://www.frankos.org/img/frankoLogoNew.png">
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.frankos.org/favicon.ico">
     <link rel="apple-touch-icon" sizes="76x76" href="http://www.frankos.org/img/frankoLogoNew.png">
     <link rel="apple-touch-icon" sizes="120x120" href="http://www.frankos.org/img/frankoLogoNew.png">
     <link rel="apple-touch-icon" sizes="152x152" href="http://www.frankos.org/img/frankoLogoNew.png">
